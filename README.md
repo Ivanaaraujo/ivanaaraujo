@@ -15,7 +15,7 @@ Com sólida experiência em **Escritório de Contabilidade**, atuei nos setores 
    - Stack: **GitHub (Data Ops) + Notion (Workflow Management)**.
 
 2. **Startup: Solucionando Dores de Gestão** 🏗️
-   - Co-fundadora de uma nova empresa criada do zero em parceria com desenvolvedor sênior.
+   - Co-fundadora de uma nova empresa criada do zero pensada por mim e meu esposo,em parceria com desenvolvedorque estar fazedno toda extrutura do site.
    - Desenvolvimento de soluções baseadas em dores reais de mercado (Accounting & Management), unindo regras de negócio (ADM/Direito) e código (ADS).
 
 ### 📚 Educação & Compliance
